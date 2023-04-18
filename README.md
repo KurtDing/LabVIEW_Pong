@@ -15,7 +15,7 @@ Other features:
 To create the new level, open the setting.txt
 The content looks like figgure below, 
 Level infomation starts form ":=" and ends at "//"
-Between these is a 6 by 6 array of numbers separated by coma.
+Between these is a 6 by 6 array of numbers separated by coma. 
 The first row is the most buttom 6 bricks.
 The number means the hit point of brick, maximun hp is 6.
 If hp of brick set to 0, then it wont exist in the level.
@@ -24,9 +24,9 @@ If hp of brick set to 0, then it wont exist in the level.
 
 
 TODO()
-The perfomance of game is awful.
-Mybe one of the root cause is using simple AABB collision detection.
-It can add a broad phase algorim before do collision detection.
-Like uniform Grid, that looks like blockmap in doom engine.
+The perfomance of game is awful. /n
+Mybe one of the root cause is using simple AABB collision detection. /n
+It can add a broad phase algorim before do collision detection. /n
+Like uniform Grid, that looks like blockmap in doom engine. /n
 Or do sweep and prune to decrease the possible collide object.
 
