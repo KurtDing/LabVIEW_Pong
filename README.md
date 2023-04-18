@@ -9,7 +9,7 @@ Other features:
   hit more bricks before ball return the paddle.
 * Use "Ctrl + Shift + C" to go to next level immediately.
 
-![image](https://github.com/KurtDing/LabVIEW_Pong/blob/44a9f73565b8b75f3e2dd72489976b1cf4d1f031/pong3.png)
+![image](https://github.com/KurtDing/LabVIEW_Pong/blob/d17a218d8bcc1ab2a1733f6c3bb75b91b96ce028/pong3.png)
 
 TODO()
 
